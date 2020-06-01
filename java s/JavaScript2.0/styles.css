@@ -1,0 +1,22 @@
+.menor{
+	height: 50px;
+}
+table{
+	border: solid 1px blue;
+	font-family: arial;
+	padding: 20px;
+	box-shadow: 5px 5px 5px black;
+}
+button{
+	margin: 20px;
+	border: solid 1px blue;
+	background-color: white;
+	margin: 10px 20px;
+}
+button:hover{
+	background-color: skyblue;
+}
+table th{
+	background-color: blue;
+	color: white;
+}
